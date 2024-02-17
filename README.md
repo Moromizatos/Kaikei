@@ -1,0 +1,2 @@
+# Kaikei
+Simple Personal Accounting
